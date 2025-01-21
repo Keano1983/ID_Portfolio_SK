@@ -1,1 +1,0 @@
-window.globalProvideData('caption', '{"data":"1%0A00:00:01,166%20--%3E%2000:00:10,000%0ACongratulations%20and%20well%20done%20on%20finishing%0Athe%20course!%20Now%20that%20you\u0027ve%20completed%20the%20module,%20choose%20the%20tab%20below%20that%20matches%20your%20situation%20to%20learn%20the%20next%20steps.%0A%0A"}')
