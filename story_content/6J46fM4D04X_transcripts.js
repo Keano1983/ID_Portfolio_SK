@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2310,"text":"Alright golfers, let's talk putting."},{"start":3883,"text":"First things first, let's place our left"},{"start":6086,"text":"hand on top, right hand underneath. From"},{"start":8288,"text":"here, we're going to play the ball"},{"start":10491,"text":"slightly further forward than middle. In"},{"start":12379,"text":"our stance, we're going to create the"},{"start":14582,"text":"letter Y with the club out left and right"},{"start":17413,"text":"arm. Now as for backswing length for a"},{"start":19931,"text":"long part. We have a longer backswing."},{"start":22680,"text":"For a shorter put we have a shorter backswing."},{"start":31000,"text":"And that's putting."}]}]};
+    window.globalLoadJsAsset('story_content/6J46fM4D04X_transcripts.js', JSON.stringify(data));
+})();
